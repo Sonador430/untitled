@@ -1,1 +1,0 @@
-print("today is a nice day!")
